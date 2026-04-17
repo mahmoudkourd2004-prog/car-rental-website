@@ -1,5 +1,3 @@
-# car-rental-website
-Modern and responsive car rental website featuring car listings, categories, testimonials, and interactive UI using HTML, CSS, and JavaScript.
 # 🚗 Car Rental Website
 
 A modern and responsive car rental website built using HTML, CSS, and JavaScript.
@@ -28,13 +26,13 @@ The project showcases a complete UI for browsing cars, viewing details, and expl
 
 ## 📸 Screenshots
 
-(Add screenshots of your project here)
+![Home Page](images/home.png)
 
 ---
 
 ## 🚀 Live Demo
 
-![Home Page](images/home.png)
+(Add your live demo link here if available)
 
 ---
 
@@ -67,4 +65,4 @@ All UI and structure were built and customized by me.
 
 ## 📄 License
 
-This project is for educational purposes only.  هذا وين احطوا ؟
+This project is for educational purposes only.
